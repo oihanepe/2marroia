@@ -1,0 +1,42 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-07 10:37:23 #1 store] 
+Database '/Users/oihane/Desktop/2marroia252/flights.odb' is opened by 10201@macbookair.local
+
+[2025-02-07 10:37:23 #2 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-07 10:37:23 #3 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-07 10:37:43 #4 store] 
+Database '/Users/oihane/Desktop/2marroia252/flights.odb' is closed by 10201@macbookair.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-07 10:37:52 #1 store] 
+Database '/Users/oihane/Desktop/2marroia252/flights.odb' is opened by 10204@macbookair.local
+
+[2025-02-07 10:37:52 #2 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-07 10:37:52 #3 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-07 10:38:18 #4 store] 
+Database '/Users/oihane/Desktop/2marroia252/flights.odb' is closed by 10204@macbookair.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-07 10:38:24 #1 store] 
+Database '/Users/oihane/Desktop/2marroia252/flights.odb' is opened by 10205@macbookair.local
+
+[2025-02-07 10:38:25 #2 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-07 10:38:25 #3 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-07 10:38:40 #4 store] 
+Database '/Users/oihane/Desktop/2marroia252/flights.odb' is closed by 10205@macbookair.local
+

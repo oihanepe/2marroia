@@ -1,0 +1,446 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 14:14:01 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6253@macbookair.local
+
+[2025-02-05 14:14:01 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 14:14:01 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 14:14:01 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 14:14:01 #5 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 14:14:01 #6 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 14:16:12 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' has been recovered (tr. 1-5)
+
+[2025-02-05 14:16:17 #2 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6258@macbookair.local
+
+[2025-02-05 14:16:17 #3 type] 
+Type domain.Flight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 14:22:49 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6291@macbookair.local
+
+[2025-02-05 14:22:49 #2 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 14:22:49 #3 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 14:25:02 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' has been recovered (tr. 6-13)
+
+[2025-02-05 14:25:07 #2 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6294@macbookair.local
+
+[2025-02-05 14:25:07 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 14:25:07 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 14:29:51 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6309@macbookair.local
+
+[2025-02-05 14:29:51 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 14:29:51 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 14:29:51 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 14:29:51 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 14:29:51 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 14:29:51 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 14:33:52 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' has been recovered (tr. 1-12)
+
+[2025-02-05 14:33:58 #2 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6323@macbookair.local
+
+[2025-02-05 14:33:58 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 14:33:58 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 14:34:28 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6325@macbookair.local
+
+[2025-02-05 14:34:28 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 14:34:28 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 14:34:28 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 14:34:28 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 14:34:28 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 14:34:28 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 15:06:21 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6383@macbookair.local
+
+[2025-02-05 15:06:21 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 15:06:21 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 15:06:21 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 15:06:21 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 15:06:21 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 15:06:21 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 15:10:48 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' has been recovered (tr. 1-12)
+
+[2025-02-05 15:10:53 #2 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6393@macbookair.local
+
+[2025-02-05 15:10:53 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 15:10:53 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 15:11:37 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6394@macbookair.local
+
+[2025-02-05 15:11:37 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 15:11:37 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 15:11:37 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 15:11:37 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 15:11:37 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 15:11:37 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 15:15:51 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6411@macbookair.local
+
+[2025-02-05 15:15:51 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 15:15:51 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 15:15:51 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 15:15:51 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 15:15:51 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 15:15:51 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 15:21:46 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' has been recovered (tr. 1-12)
+
+[2025-02-05 15:21:51 #2 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6419@macbookair.local
+
+[2025-02-05 15:21:51 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 15:21:51 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 15:23:50 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6452@macbookair.local
+
+[2025-02-05 15:23:50 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 15:23:50 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 15:23:50 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 15:23:50 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 15:23:50 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 15:23:50 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 15:37:55 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6625@macbookair.local
+
+[2025-02-05 15:37:55 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 15:37:55 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 15:37:55 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 15:37:55 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 15:37:55 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 15:37:55 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 15:38:31 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6626@macbookair.local
+
+[2025-02-05 15:38:31 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 15:38:31 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 15:38:31 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 15:38:31 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 15:38:31 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 15:38:31 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 15:40:12 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6631@macbookair.local
+
+[2025-02-05 15:40:12 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 15:40:12 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 15:40:12 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 15:40:12 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 15:40:12 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 15:40:12 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 15:52:33 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6656@macbookair.local
+
+[2025-02-05 15:52:33 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 15:52:33 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 15:52:33 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 15:52:33 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 15:52:33 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 15:52:33 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 15:57:14 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6672@macbookair.local
+
+[2025-02-05 15:57:14 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 15:57:14 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 15:57:14 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 15:57:14 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 15:57:14 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 15:57:14 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 15:58:26 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6675@macbookair.local
+
+[2025-02-05 15:58:26 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 15:58:26 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 15:58:26 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 15:58:26 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 15:58:26 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 15:58:26 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 15:59:30 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6677@macbookair.local
+
+[2025-02-05 15:59:30 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 15:59:30 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 15:59:30 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 15:59:30 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 15:59:30 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 15:59:30 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 16:03:20 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6680@macbookair.local
+
+[2025-02-05 16:03:20 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 16:03:20 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 16:03:20 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 16:03:20 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 16:03:20 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 16:03:20 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-05 16:07:25 #1 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is opened by 6700@macbookair.local
+
+[2025-02-05 16:07:25 #2 type.registry] 
+New type domain.Flight
+
+[2025-02-05 16:07:25 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2025-02-05 16:07:25 #4 type.registry] 
+New type domain.ConcreteFlight
+
+[2025-02-05 16:07:25 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-02-05 16:07:25 #6 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-02-05 16:07:25 #7 type.registry] 
+New type java.util.ArrayList<domain.ConcreteFlight>
+
+[2025-02-05 16:07:25 #8 store] 
+Database '/Users/oihane/Desktop/2.kurtsoa/2. kuatri/SI/2marroia25/flights.odb' is closed by 6700@macbookair.local
+
